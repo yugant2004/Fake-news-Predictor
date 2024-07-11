@@ -7,10 +7,6 @@ The models employed include Logistic Regression, Decision Trees, and Random Fore
 2. Machine Learning Models: Implements Logistic Regression, Decision Trees, and Random Forest classifiers.
 3. Model Evaluation: Provides metrics to evaluate the performance of each model.
 
-# Installation 
-1. Clone the Repository
-  git clone https://github.com/TaruunMalik/Fake-News-Predictor
-  cd fake-news-predictor
 
 2. Install Libraries
    pip install pandas numpy scikit-learn nltk
